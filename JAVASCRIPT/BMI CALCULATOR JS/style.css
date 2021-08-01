@@ -1,0 +1,35 @@
+body{
+	max-width: 95%;
+	max-height: 95%;
+
+	min-width: 10%%;
+	min-height: 10%%;
+
+	text-align: center;
+	font-family: amatic, arial;
+	background-color:orange;
+}
+
+.myform{
+	background-color: yellow;
+	padding: 30px 30px 30px 30px;
+	width:50%;
+	flex-direction: column;
+	border:solid teal 5px;
+	border-radius: 50px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top:60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+
+}
+
+.ndani{
+	height: 30px;
+	width:200px;
+	border-radius: 10px;
+}
