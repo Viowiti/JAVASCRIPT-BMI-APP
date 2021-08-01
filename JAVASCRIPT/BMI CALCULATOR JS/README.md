@@ -4,3 +4,4 @@ the bmi is calculated using the formula BMI = WEIGHT(kgs)/ height^2(m^2).
 The result is then displayed to the user vi a popup alert.
 
 Authored by Victor Owiti on 1st August 2021.
+Hosted on https://jsbmi.000webhostapp.com/
